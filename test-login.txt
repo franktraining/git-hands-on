@@ -10,4 +10,4 @@ Login Test Case
 2.Enter username
 3.Enter password
 4.click login
-5.verify dashboard
+5verify dashboard
